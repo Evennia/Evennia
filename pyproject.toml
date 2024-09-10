@@ -168,3 +168,6 @@ omit = [
   "*.pyc",
   "*.service",
 ]
+
+[tool.ruff]
+line-length = 100
